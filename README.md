@@ -9,7 +9,7 @@ best-performing models.
 ## Project Structure
 The repository is organized to clearly separate training experiments from the
 final selected models:
-`
+```
 BestModels/
 ├── BestModels.ipynb
 └── README.md
@@ -23,7 +23,7 @@ TrainingModels/
 
 DeepDetect_Report.pdf
 DeepDetect_Presentation.pdf
-`
+```
 
 ## Dataset
 The dataset used in this project consists of real and fake images for deepfake
