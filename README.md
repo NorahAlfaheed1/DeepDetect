@@ -9,16 +9,17 @@ best-performing models.
 ## Project Structure
 The repository is organized to clearly separate training experiments from the
 final selected models:
+
 BestModels/
-│── BestModels.ipynb
-│── README.md
+├── BestModels.ipynb
+└── README.md
 
 TrainingModels/
-│── DeepDetect_EfficientNetB0.ipynb
-│── DeepDetect_ResNet50_V1.ipynb
-│── DeepDetect_ResNet50_V2.ipynb
-│── DeepDetect_Xception.ipynb
-│── README.md
+├── DeepDetect_EfficientNetB0.ipynb
+├── DeepDetect_ResNet50_V1.ipynb
+├── DeepDetect_ResNet50_V2.ipynb
+├── DeepDetect_Xception.ipynb
+└── README.md
 
 DeepDetect_Report.pdf
 DeepDetect_Presentation.pdf
